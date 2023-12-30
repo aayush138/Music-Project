@@ -20,4 +20,3 @@ six==1.16.0
 tenacity==8.2.3
 tzdata==2023.3
 Werkzeug==3.0.1
-pysqlite3
