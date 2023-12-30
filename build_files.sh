@@ -1,3 +1,3 @@
 # build_files.sh
 pip install -r Requirements.txt
-python3.9 app.py collectstatic
+python3.11 app.py
